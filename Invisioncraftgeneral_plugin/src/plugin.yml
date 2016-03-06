@@ -1,0 +1,19 @@
+name: Invisioncraftgeneral
+version: 1.0.0
+author: Invisioncraft
+main: main.MainClass
+
+commands:
+  register:
+    description: Befehl zum Registrieren auf dem Server
+    
+  login:
+    description: Befehl zum Einloggen
+  
+  changepassword:
+    description: Befehl zum Passwort aendern
+    
+  logout:
+    description: Befehl zum Ausloggen
+  
+        
