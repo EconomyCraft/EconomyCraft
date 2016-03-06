@@ -1,0 +1,19 @@
+name: Minecraftserver
+version: 1.0 
+author: Arne
+website: http;//bukkit.org/
+
+main: OP_Plugin.OP_Plugin
+commands:
+     heal:
+          description: heal
+          usage:
+          permission: isOp
+     kill:
+          description: kill
+          usage:
+          permission: isOp
+     tp:
+          description: teleport
+          usage:
+          permission: isOp
